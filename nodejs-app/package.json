@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "My first Node.js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Edgardo Avilés <eaviles@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.0"
+  }
+}
