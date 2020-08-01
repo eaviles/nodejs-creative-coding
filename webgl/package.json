@@ -1,0 +1,13 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "private": true,
+  "author": "Edgardo Avilés <eaviles@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.7.3",
+    "canvas-sketch-util": "^1.10.0",
+    "nice-color-palettes": "^3.0.0",
+    "three": "^0.119.1"
+  }
+}
