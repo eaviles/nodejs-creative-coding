@@ -1,14 +1,9 @@
 {
   "name": "organic",
   "version": "1.0.0",
-  "description": "",
-  "main": "organic.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "private": true,
+  "author": "Edgardo Avilés <eaviles@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "canvas-sketch": "^0.7.3",
     "canvas-sketch-util": "^1.10.0",

@@ -38,6 +38,13 @@
 }
 
 {
+  const hello = you => {
+    console.log(`Hello, ${you}!`);
+  };
+  hello('world');
+}
+
+{
   const { hello } = require('./hello.js');
   hello('planet');
 }

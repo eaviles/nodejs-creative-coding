@@ -1,11 +1,7 @@
 {
   "name": "nodejs-app",
   "version": "1.0.0",
-  "description": "My first Node.js app",
-  "main": "app.js",
-  "scripts": {
-    "test": "exit 0"
-  },
+  "private": true,
   "author": "Edgardo Avilés <eaviles@gmail.com>",
   "license": "MIT",
   "dependencies": {
